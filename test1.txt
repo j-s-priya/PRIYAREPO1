@@ -1,0 +1,11 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 60A1-957E
+
+ Directory of C:\Users\satya\OneDrive\Desktop\priya project
+
+22/04/2021  17:29    <DIR>          .
+22/04/2021  17:29    <DIR>          ..
+22/04/2021  17:29                 0 test1.txt
+22/04/2021  17:28               358 text1.txt
+               2 File(s)            358 bytes
+               2 Dir(s)  146,337,681,408 bytes free
